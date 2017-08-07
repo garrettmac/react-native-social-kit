@@ -1,0 +1,26 @@
+{
+  "name": "react-native-social-kit",
+  "version": "0.0.1",
+  "description": "Plug your app into all social media network platforms with native UI Share Dialogs, make Rest API Calls and more.",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrettmac/react-native-social-kit.git"
+  },
+  "keywords": [
+    "native",
+    "react-native-component",
+    "facebook",
+    "twitter",
+    "reddit"
+  ],
+  "author": "garrettmac <garrett@vyga.io> (http://vyga.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garrettmac/react-native-social-kit/issues"
+  },
+  "homepage": "https://github.com/garrettmac/react-native-social-kit#readme"
+}
